@@ -2,16 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ukirsche.github.io/nullpunkt/</loc>
+    <lastmod>2022-10-17T21:51:41+02:00</lastmod>
+  </url><url>
+    <loc>https://ukirsche.github.io/nullpunkt/ottweiler/familie/</loc>
+    <lastmod>2022-10-17T21:51:41+02:00</lastmod>
+  </url><url>
+    <loc>https://ukirsche.github.io/</loc>
+    <lastmod>2022-10-17T21:51:41+02:00</lastmod>
+  </url><url>
+    <loc>https://ukirsche.github.io/nullpunkt/ottweiler/hilde/</loc>
+    <lastmod>2022-10-12T21:51:41+02:00</lastmod>
+  </url><url>
+    <loc>https://ukirsche.github.io/nullpunkt/ottweiler/umgebung/</loc>
+    <lastmod>2022-10-01T18:17:59+02:00</lastmod>
+  </url><url>
     <loc>https://ukirsche.github.io/categories/</loc>
   </url><url>
     <loc>https://ukirsche.github.io/contact/</loc>
   </url><url>
-    <loc>https://ukirsche.github.io/nullpunkt/</loc>
-  </url><url>
-    <loc>https://ukirsche.github.io/ole/</loc>
-  </url><url>
     <loc>https://ukirsche.github.io/tags/</loc>
-  </url><url>
-    <loc>https://ukirsche.github.io/</loc>
   </url>
 </urlset>
