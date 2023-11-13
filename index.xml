@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction on Nullpunkt</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Introduction on Nullpunkt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ottweiler/ Saar</title>
+      <link>http://localhost:1313/docs/kapitel/ottweiler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/kapitel/ottweiler/</guid>
+      <description>Abschnitt 1 # Es wäre höflich, die Familien-Saga mit der Vorstellung meiner Eltern zu beginnen. Da diese beiden aber im Laufe meiner Geschichte noch öfters vorkommen werden, beschränke ich mich an dieser Stelle auf zwei kurze Skizzen.
+Vater # Mein Vater entstammte einer wohlhabenden Familie aus Prüm in der Eifel und war trotz seiner hugenottischen Abstammung ein überzeugter Katholik und ein braver Deutscher. Er war als 12. und jüngstes Kind von sonnigem Gemüt, lachte mit den Lachenden, litt mit den Leidenden und stand immer auf der Seite der Schwächeren.</description>
+    </item>
+    
+    <item>
+      <title>Metz/ Lothringen</title>
+      <link>http://localhost:1313/docs/kapitel/metz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/kapitel/metz/</guid>
+      <description>Abschnitt 7 # Die Ortskrankenkasse Metz, in der sich auch unsere neue Wohnung befand, war ein riesiger Häuserkomplex. Mit einem antiken Aufzug fuhren wir in die zweite Etage des großen Gebäudes. Während Mama wie eine Herrscherin durch die Wohnung schritt, die große Balkone bewunderte und die Kisten mit unseren Papieren und Wertsachen prüfte, stellt Papa mit Erleichterung fest, dass der Vormieter, Gott sei Dank, kein Jude gewesen sein konnte. Die Weihwassergefäße an den Wänden der vielen Zimmer und eine dicke Textbibel bewiesen hinlänglich, dass vermutlich ein frankophiler Christ der deutsche Besatzerfamilie hat weichen müssen.</description>
+    </item>
+    
+    <item>
+      <title>Bernkastel/ Kues</title>
+      <link>http://localhost:1313/docs/kapitel/bernkastel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/kapitel/bernkastel/</guid>
+      <description>Abschnitt 13 # In Bernkastel trafen wir unsere liebe Hilde wieder. Mama, und wir Kinder begannen nun, uns im renommierten und wohlhabenden Hause Popp, der Doctor-Weinstube, einzunisten. Das fiel uns nicht besonders schwer, weil es das vierte Nest innerhalb von zwei Jahren war, weil der Ort reichlich weit von der Front entfernt war und weil Opa über gute Quellen für die notwendige leibliche Versorgung verfügte. Zu diesen Quellen gehörte der Hof Bergfried, ein von Opa Franz 1919 gebautes Herrenhaus mit großem Garten, mit Stallungen, Wiesen, Obst- und Nussbäumen, mit Kühen, Pferden und Hühnern und einem Verwalterpaar, die Tenheils, mit 2 fast gleichaltrigen Kindern.</description>
+    </item>
+    
+  </channel>
+</rss>
